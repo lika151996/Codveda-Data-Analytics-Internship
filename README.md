@@ -1,4 +1,4 @@
-# Codveda Data Analytics Internship
+# Data Analytics Internship
 
 This repository contains Data Analytics Internship projects completed for Codveda Technologies using Python and Google Colab.
 
